@@ -1,9 +1,14 @@
 # Java Tutorials 
-Just Another Java Repo for beginer
+just another java repo for android developer beginner.
 
-##License
+## Connected 
+- bit.ly/1001PROJECT
+- t.me/BayyTech
+- cs@baytech.my.id
 
--MIT License
+## License
+
+- MIT License
 
 Copyright (c) 2020 By-U
 
@@ -25,3 +30,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 © 
+
